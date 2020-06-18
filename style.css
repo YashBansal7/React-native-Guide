@@ -1,0 +1,74 @@
+/*.item{
+    margin-left: 650px;;
+    margin-top: 50px;
+}*/
+*{color:#00C2FF;font-family:"Segoe Print" ;}
+
+.imagees{
+    margin-left: 400px;
+}
+
+.about{
+    background-color: #3C4044;
+}
+
+.get{
+    
+  margin-left: 650px;
+}
+
+.Bigmenu{
+    
+    margin-left: 30px;
+}
+
+.whole{
+   background-image:url(Images/React\ Native\ Image1.JPG);
+}
+.topper{
+    color: aqua;
+    font-family: 'Segoe Print';
+    margin-top: 150px;
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+
+.footer{
+    margin-top:200px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.insta{
+    margin-top:250px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.youtube{
+    margin-top:250px;
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
